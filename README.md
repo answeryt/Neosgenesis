@@ -1,4 +1,4 @@
-# neosgenesis
+# Neosgenesis (Multi-Agent Framework)
 
 <p align="center">
   <img src="Image 2025年11月16日 16_14_49.png" alt="neosgenesis logo" width="220">
@@ -441,5 +441,6 @@ python -m stage4_agent.main
 - `workflow/full_pipeline_runner.py` 中的调度逻辑；
 - 对应阶段 Agent 的 `*_agent.py` 文件与提示词 `.md` 文件；
 - `model/` 目录中模型封装与返回结构定义。
+
 
 
